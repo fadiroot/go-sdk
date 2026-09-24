@@ -7,7 +7,6 @@ bin/
 *.tmp
 
 # IDE files
-.vscode/
 *.code-workspace
 .idea/
 *~
@@ -36,3 +35,7 @@ $RECYCLE.BIN/
 
 # Linux
 .nfs*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
