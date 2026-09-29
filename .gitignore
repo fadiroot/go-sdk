@@ -7,7 +7,6 @@ bin/
 *.tmp
 
 # IDE files
-.vscode/
 *.code-workspace
 .idea/
 *~
@@ -17,6 +16,7 @@ bin/
 *.pprof
 *.out
 *.coverage
+temp_auto_push.bat
 coverage.txt
 coverage.html
 
@@ -36,3 +36,5 @@ $RECYCLE.BIN/
 
 # Linux
 .nfs*
+.gitignore
+branch_structure.json
